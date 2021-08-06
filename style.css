@@ -1047,3 +1047,12 @@ h4 {
 {
     width: 100%;
 }
+
+@media (max-width: 400px)
+{
+    .centertext img
+{
+    width: 100%;
+}
+
+}
